@@ -23,7 +23,6 @@ div {
 
 h1, p, a{
     color: #fff;
-
 }
 
 div h1 {
@@ -52,8 +51,6 @@ div p {
 
 div a + a{
     margin-top: 16px;
-
-
 }
 
 div a {
